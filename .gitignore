@@ -1,0 +1,8 @@
+/.settings/ 
+/.project/
+/.svn/ 
+/bin/ 
+/target/ 
+*/classes/
+
+/bin/
