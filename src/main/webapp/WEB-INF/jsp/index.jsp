@@ -5,12 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<title>智勇之战</title>
+<title>智勇之站</title>
 </head>
 
 <body>
-<h1>你好啊</h1>
-welcome!
-${test.name}:${test.value}
+<div>
+	<a>登陆</a>
+	<a>注册</a>
+</div>
 </body>
 </html>
